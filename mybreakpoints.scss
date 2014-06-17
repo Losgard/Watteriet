@@ -1,0 +1,4 @@
+// Media Query Breakpoints
+$mobile: new-breakpoint(max-width 480px 4); // Use a 4 column grid
+$tablet: new-breakpoint(min-width 481px max-width 989px 12); // Use an 8 column grid
+$desktop: new-breakpoint(min-width 1234px 12); // Use a 12 column grid

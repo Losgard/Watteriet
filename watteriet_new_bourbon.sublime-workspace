@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kon",
+				"kontaktanton.html"
+			],
+			[
+				"k",
+				"kontaktjohan.html"
+			],
+			[
+				"ko",
+				"kontaktsusanne.html"
+			],
+			[
+				"dar",
+				"dark-red	 app.scss"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"sp",
+				"spectrum.png	w:51 h:51"
+			],
+			[
+				"ab",
+				"abookapart.png	w:52 h:51"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"Snippet: form",
+				"Snippet: Yii CHtml::form"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"git",
+				"Git: Quick Status"
+			],
+			[
+				"sublimegit",
+				"SublimeGit: Version"
+			],
+			[
+				"Snippet: html",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"set syn",
+				"Set Syntax: HTML5"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: CSS3"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git clone https://github.com/facelessuser/UnnamedTheme2/ \"Theme - Faceless\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/bitters",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/bitters/extends",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/css"
+	],
+	"file_history":
+	[
+		"/Users/patriklosgard/Desktop/Genesis/genesis/rtl.css",
+		"/Users/patriklosgard/Library/Caches/com.binarynights.ForkLift2/#0/starter.php",
+		"/Users/patriklosgard/Dropbox/websites/wordpress/wp-content/themes/genesis-sample/functions.php",
+		"/Users/patriklosgard/Dropbox/websites/wordpress/wp-content/themes/genesis-bourbon-neat-master/style.css",
+		"/Users/patriklosgard/Dropbox/websites/wordpress/wp-content/themes/genesis-sample/style.css",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/css/app.css",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/kontakt.html",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/kontaktanton.html",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/app.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/bitters/extends/_button.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/index.html",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/kontaktsusanne.html",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/kontaktjohan.html",
+		"/Users/patriklosgard/Library/Caches/com.binarynights.ForkLift2/#0/wp-config.php",
+		"/Users/patriklosgard/Dropbox/websites/wordpress/wp-content/themes/bourbonwp/index.php",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/modules/hero.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/img/logga (1).jpg",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/humans.txt",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/modules/nav.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/.sass-cache/b949eeebcf131ff1479c9748394eb465f45cc44e/_is-num.scssc",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/helpers/_is-num.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/mybreakpoints.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/modules/footer.scss",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/.sass-cache/c2fb005f5aa709d7d5c8cc754abaff3f22370865/nav.scssc",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/modules/typo.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/hero.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/js/main.js",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/bitters/_variables.scss",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/settings/_visual-grid.scss",
+		"/Users/patriklosgard/Library/Caches/com.binarynights.ForkLift2/#0/index.html",
+		"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon/bitters/_bitters.scss",
+		"/Users/patriklosgard/Dropbox/websites/kmafilm/wordpress/wp-content/themes/bourbonwp/styles/styles.css",
+		"/Users/patriklosgard/Dropbox/websites/kmafilm/wordpress/wp-content/themes/bourbonwp/header.php",
+		"/Users/patriklosgard/Dropbox/websites/kmafilm/wordpress/wp-content/themes/bourbonwp/styles/styles.scss",
+		"/Users/patriklosgard/Dropbox/websites/kmafilm/wordpress/wp-content/themes/bourbonwp/styles/bitters/_bitters.scss",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/scss/app.scss",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/index.html",
+		"/Users/patriklosgard/Library/Caches/com.binarynights.ForkLift2/#0/app.css",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/stylesheets/app.css",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/scss/_settings.scss",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/patriklosgard/Dropbox/websites/blogg.wordpress.2014-04-30.xml",
+		"/Applications/MAMP_2014-04-15_23-17-06/bin/phpMyAdmin/examples/create_tables.sql",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/kontakt.html",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/hemsidor.html",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/blogg/wp-content/themes/twentyeleven/content-status.php",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/foundation-icons/svgs/fi-star.svg",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/blogg/wp-admin/network/site-themes.php",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/sftp-config.json",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/patriklosgard/Desktop/st.txt",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Icon (Source).tmPreferences",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Icon (Markup).tmPreferences",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Icon (Text).tmPreferences",
+		"/Users/patriklosgard/Dropbox/websites/watteriet/bs-config.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/config.rb",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/blogg/wp-admin/css/colors-classic.css",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/blogg/wp-admin/css/colors-fresh.css",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/old/HTMLCSS1master/js/modernizr-1.7.min.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/bower_components/modernizr/test/caniuse_files/modernizr-1.7.min.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/oldtest/bower_components/foundation/js/vendor/modernizr.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/oldtest/bower_components/modernizr/test/caniuse_files/modernizr-1.7.min.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/scss/losgard.sublime-project",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/losgard.sublime-project",
+		"/Users/patriklosgard/Dropbox/websites/bourbontest/bourbontest.sublime-project",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/bs-config.js",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/scss/losgard.scss",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/bower_components/jquery-placeholder/tests/index.html",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/bower_components/jquery-placeholder/demo.html",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/new/index.html",
+		"/Users/patriklosgard/Dropbox/websites/losgard_sites/losgard/herald/index.html",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/patriklosgard/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/patriklosgard/Dropbox/websites/watteriet_new_bourbon"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"face",
+			"horizontal-bar-mode",
+			".hero",
+			"hero",
+			".hero",
+			"app",
+			".hero",
+			"test",
+			"variab",
+			"nav-link",
+			"float",
+			"abso",
+			"lang",
+			"har inbyggd FTP f&ouml;r uppladdning av filer",
+			"folder",
+			"codekit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"project": "watteriet_new_bourbon.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"css/app.css"
+			],
+			[
+				"her",
+				"modules/hero.scss"
+			],
+			[
+				"nav",
+				"modules/nav.scss"
+			],
+			[
+				"ap",
+				"css/app.css"
+			],
+			[
+				"in",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/websites/wordpress/wp-content/themes/losgard/losgardwp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 866.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
